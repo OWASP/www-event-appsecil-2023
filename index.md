@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec Example 2020
+title: {{ site.data.event-details.title }}
 layout: event
 registration_url: register/
 training: January 1 - 3
