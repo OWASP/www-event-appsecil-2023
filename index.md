@@ -1,6 +1,6 @@
 ---
 
-title: {{ site.data.event-details.title }}
+title: "{{ site.data.event-details.title }}"
 layout: event
 registration_url: register/
 training: January 1 - 3
