@@ -28,8 +28,8 @@ If you are responsible for, or involved with:
 
   ... you should join us at AppSecIL!
 
-{{ site.title }} will have THREE lecture tracks from an amazing group of speakers, some hands-on workshops, and additional activities such as a Capture the Flag competition.   
-We also host a sponsors pavilion with vendor booths to promote the latest advances in security technology relevant to application security and developers.   
+{{ site.title }} will have a lecture track from an amazing group of speakers, "unconference" style discussion sessions, and additional activities such as a Capture the Flag competition.   
+We also host sponsors to promote the latest advances in security technology relevant to application security and developers.   
 
 {% comment %}
 {% include keynotes.md %}
