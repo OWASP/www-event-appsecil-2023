@@ -1,13 +1,13 @@
-title: AppSec Israel 2018
-description: OWASP AppSec Israel annual conference - 2018 edition!
+title: Virtual AppSec Israel 2020
+description: OWASP AppSec Israel annual conference - 2020 edition!
 
 # Since GH pages override this to "true", we test this value to see if we are running locally
 safe: false
 
 # Conference dates
-dates: 5-6 September, 2018
-trainingday: Wednesday, September 5th
-confday: Thursday, September 6th
+dates: 27-28 October, 2018
+trainingday: Tuesday, October 27th
+confday: Wednesday, October 28th
 
-sched: appsecisrael2018.sched.com
-eventbrite: appsecil2018.eventbrite.com
+sched: appsecisrael2020.sched.com
+eventbrite: appsecil2020.eventbrite.com

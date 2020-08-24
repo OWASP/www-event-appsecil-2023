@@ -3,15 +3,13 @@
 
 ## Welcome to OWASP's {{ site.title }}! 
 
-### Get Ready Autumn 2020 - more details soon to be uncovered
-<img src="assets/img/sticker2020.jpeg" >
 
 ---
 
-**{{ site.title }} will take place on {{ site.dates }} at Tel Aviv University, in central Tel Aviv.**
+**{{ site.title }} will take place on {{ site.dates }} Online, broadcasted worldwide.**
 
 The annual OWASP AppSec Israel Conference is the largest conference in Israel for application security,  
-and regularly draws hundreds of participants. [Over 650 people attended last year](https://2017.appsecil.org)! 
+and regularly draws hundreds of participants. [Over 700 people attended the previous conference](https://2018.appsecil.org)! 
 
 But AppSecIL is not just for security experts!
 
@@ -32,7 +30,7 @@ If you are responsible for, or involved with:
 
 {{ site.title }} will have THREE lecture tracks from an amazing group of speakers, some hands-on workshops, and additional activities such as a Capture the Flag competition.   
 We also host a sponsors pavilion with vendor booths to promote the latest advances in security technology relevant to application security and developers.   
-
+<!--
 {% include keynotes.md %}
 
 **Attendance is free, but [registration is required](Register)!**
@@ -43,7 +41,7 @@ Please note that AppSecIL is family friendly! If you need to bring your baby wit
 Unfortunately we were not able to offer on-site childcare this year.   
 
 Note: The auditorium and other classrooms are wheelchair accessible. Please notify a staff member if there are any problems
-
+-->
 ---
 
 ### Hosted by:  
