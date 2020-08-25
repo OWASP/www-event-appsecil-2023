@@ -1,15 +1,119 @@
-- logo: /www-event-example/assets/images/sponsors/securecodewarrior_gold.png
-  name: Secure Code Warrior
-  url: https://securecodewarrior.com
-  backgroundSize: 125px
-  type: Gold
-- logo: /www-event-example/assets/images/sponsors/contrast-security.png
-  name: Contrast Security
-  url: https://www.contrastsecurity.com
-  backgroundSize: 125px
-  type: Ruby
-- logo: /www-event-example/assets/images/sponsors/ripstech_black.png
-  name: RIPS Technologies
-  url: https://ripstech.com
-  backgroundSize: 125px
-  type: Ruby
+platinum: 
+- name : CyberArk
+  url  : https://www.cyberark.com/
+  image: Cyberark.png
+- name : Deloitte 
+  url  : https://www2.deloitte.com/il/en.html
+  image: Deloitte.jpg
+
+gold:
+- name : Imperva
+  url  : https://www.imperva.com/
+  image: Imperva_Clr.png
+- name : WhiteSource
+  url  : https://www.whitesourcesoftware.com/
+  image: Whitesource.png  
+- name : Akamai
+  url  : https://www.akamai.com/
+  image: Akamai.png
+- name : AppSec Labs
+  url  : https://www.appsec-labs.com/
+  image: AppSecLabs.jpg
+- name : Checkmarx
+  url  : https://www.checkmarx.com/ 
+  image: Checkmarx.png
+- name : PerimeterX
+  url  : https://www.perimeterx.com/
+  image: PerimeterX.png
+- name : JP Morgan Israel
+  url  : https://www.jpmorgan.com/country/IL/en/jpmorgan
+  image: JPMorgan.jpg
+
+
+silver: 
+- name : Twistlock
+  url  : https://www.twistlock.com/
+  image: Twistlock.png
+- name : SeeHR
+  url  : http://www.see-security.com/
+  image: SeeHR.png
+- name : SafeBreach
+  url  : https://www.safebreach.com/
+  image: SafeBreach.png
+- name : F5
+  url  : https://www.f5.com/
+  image: F5-logo.png
+- name : Comsec
+  url  : https://comsecglobal.com/
+  image: Comsec.png
+- name : Tufin
+  url  : https://www.tufin.com/
+  image: Tufin.jpg
+- name : Snyk
+  url  : https://snyk.io/
+  image: Snyk.png
+- name : Synopsys
+  url  : https://www.synopsys.com/software/pages/default.aspx 
+  image: synopsys.jpg
+- name : Accenture 
+  url  : https://www.accenture.com/il-en/security-index
+  image: Accenture.png
+- name : PayPal
+  url  : https://jobsearch.paypal-corp.com/search?facetcountry=il&location=Tel%20Aviv
+  image: Paypal.jpeg
+
+community: 
+- name : Hak5
+  url  : https://www.hak5.org/
+  image: Hak5Gear.png
+- name : SheCodes
+  url  : https://she-codes.org/
+  image: SheCodes.png
+- name : Violet Sky
+  url  : https://www.violetskysecurity.com
+  image: VioletSky.png
+- name : Soluto
+  url  : https://www.solutotlv.com/
+  image: Soluto.png
+- name : Trustwave
+  url  : https://www.trustwave.com/
+  image: Trustwave.png
+- name : Kenna Security
+  url  : https://www.kennasecurity.com/
+  image: kennasecurity.png
+- name : Cobalt Labs
+  url  : https://cobalt.io/services/pentest-service 
+  image: Cobalt.png
+
+alacarte:
+- name : Violet Sky
+  url  : https://www.violetskysecurity.com
+  image: VioletSky.png
+  type : Video
+- name : WhiteSource
+  url  : https://www.whitesourcesoftware.com/
+  image: Whitesource.png  
+  type : WIA
+- name : CyberArk
+  url  : https://www.cyberark.com/
+  image: Cyberark.png
+  type : Lanyards
+- name : GE Digital
+  url  : https://www.ge.com/digital/
+  image: GE_digital.png
+  type : Badges
+- name : Dome9
+  url  : https://dome9.com/
+  image: Dome9.png
+  type : T-Shirts 
+  
+ctf:
+- name : F5
+  url  : https://www.f5.com/
+  image: F5-logo.png
+  type : CTF
+- name : Scorpiones
+  url  : https://scorpiones.io/
+  image: Scorpiones.png
+  type : CTF
+

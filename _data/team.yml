@@ -1,23 +1,57 @@
-conferenceteam:
-staff: 
-  - name: Mike McCamon 
-    role: Executive Director
-    image: staff_mike.jpg
-  - name: Harold Blankenship
-    role: Director of Technology and Projects
-    image: staff_harold.jpg
-  - name: Emily Berman
-    role: Director of Events
-    image: staff_emily.jpg
-  - name: Kelly Santalucia
-    role: Director of Corporate Support
-    image: staff_kelly.jpg
-  - name: Dawn Aitken
-    role: Community and Operations Manager
-    image: staff_dawn.png
-  - name: Lisa Jones
-    role: Sales and Marketing Operations Manager
-    image: staff_lisa.jpg
-  - name: Sibah Poede
-    role: Events Coordinator
-    image: staff_sibah.jpg
+board: 
+- name: Or Katz
+  title: Akamai
+  role: Conference Chair and OWASPIL Chairman
+  image: 
+- name: Avi D
+  title: Bounce Security
+  role: Sponsor Relations
+  image: 
+- name: Ofer Maor
+  title: Synopsys
+  role: 
+  image: 
+- name: Hemed Gur Ary
+  title: Vata
+  role: volunteers
+  image: 
+- name: Dr. Yossi Oren
+  title: Ben Gurion University
+  role: 
+  image: 
+- name: Irene Abezgauz
+  title: Cymmetria
+  role: 
+  image: 
+
+content:
+- name: Shira Shamban - Content Chair
+  title: Dome9, SheCodes
+- name: Irene Abezgauz
+  title: Cymmetria
+- name: Ory Segal
+  title: PureSec
+- name: Iftach Ian Amit
+  title: Cimpress / BSidesLV
+- name: Guy Mizrahi
+  title: RayZone
+
+training:
+- name: Yigal Elefantn
+  title: IronSource
+- name: Josh Grossman
+  title: Comsec
+
+volunteers:
+- name: Tomer Zait
+  title: F5 Networks
+  role: Website 
+- name: Shira Shamban 
+  title: Dome9, SheCodes
+  role: WIA organizer and moderator
+- name: Keren Elazari 
+  title: Tel Aviv University, BSidesTLV
+  role: WIA organizer and moderator
+- name: Reut Menashe
+  title: WIA organizer and moderator
+  role: BSidesTLV

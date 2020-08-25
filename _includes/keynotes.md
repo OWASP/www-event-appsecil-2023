@@ -1,11 +1,20 @@
+{% if site.data.keynotes %} 
+<br /> 
 
-<h3>Keynote Speakers</h3>
-<ul>
-{% for speaker in site.data.keynotespeakers %}
-    {% if speaker.name %}
-        <li><a href="/program/keynotes#{{speaker.name}}" class="keynote-img" style="background-image: url(assets/images/keynotes/{{speaker.image | default: 'owasp_logo.png'}});">
-            <h4>{{ speaker.name }}</h4></a>
-        </li>
-    {% endif %}
-{% endfor %}
-</ul>
+## Keynote Speakers
+
+  {% for keynote in site.data.keynotes %}
+<img src="assets/img/{{ keynote.image }}" style="width:320px"> 
+### {{ keynote.name }}
+#### <em style="font-style: italic;">{{ keynote.company }}</em>
+{% if keynote.url %}
+#### <a href="{{ keynote.url }}" target="_blank">{{ keynote.title }}</a>
+{% else %}
+#### <strong style="font-size:large; font-weight:300; text-decoration:underline;">{{ keynote.title }}</strong>
+{% endif %}
+
+<br />
+
+  {% endfor %} 
+
+{% endif %}
