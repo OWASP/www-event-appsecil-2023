@@ -25,7 +25,7 @@ We especially appreciate talks from security folk in large organizations (“sec
 - **Policy and legal**: Legislation, privacy, regulations and compliance, C-level considerations, etc.
 - **Cool hacks and other fun stuff**: cryptography, social engineering, etc.
 
-### [Please submit your proposal here!](https://www.papercall.io/owasp-israel) 
+### Thanks for your submissions, the CFP has now closed!
 
 We use a double-blind review process, wherein the reviewers do not see the identity of the submitter until after the review is complete. We hope this will improve the diversity of our speakers, and encourage new speakers to submit.   
 
