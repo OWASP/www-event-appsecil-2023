@@ -15,11 +15,11 @@ Sponsorship also helps support the OWASP community, and ensures that we can keep
 
 We are now offering several tiers of premium sponsorship, and various a la carte opportunities.   
 There is also a cost-effective “Community Supporter” option for non-profits, government offices, small startups, and anyone else that wishes to support the community (Community Supporter level does not get a booth at the conference).  
-For more details on the available sponsorship options please see [Conference Sponsorships]({{ site.url }}/www-event-stdoff/assets/files/Digital_AppSec_Israel_2020_Sponsorships.pdf).  
+For more details on the available sponsorship options please see [Conference Sponsorships]({{ site.url }}/assets/files/Digital_AppSec_Israel_2020_Sponsorships.pdf).  
 
 For more details and to confirm your sponsorship, please contact [Ori Troyna](mailto:ori.troyna@owasp.org).   
 
-![What You Get for Sponsoring AppSec IL 2020](/www-event-stdoff/assets/img/AppSec_2020_Sponsor.png "Owasp Israel Sponsoring tiers")
+![What You Get for Sponsoring AppSec IL 2020](/assets/img/AppSec_2020_Sponsor.png "Owasp Israel Sponsoring tiers")
 
 **Sponsorship options:**
 
