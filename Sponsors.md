@@ -19,6 +19,8 @@ For more details on the available sponsorship options please see [Conference Spo
 
 For more details and to confirm your sponsorship, please contact [Ori Troyna](mailto:ori.troyna@owasp.org).   
 
+![What You Get for Sponsoring AppSec IL 2020](/www-event-stdoff/assets/img/AppSec_2020_Sponsor.png "Owasp Israel Sponsoring tiers")
+
 **Sponsorship options:**
 
 
