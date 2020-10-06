@@ -19,7 +19,20 @@ For more details on the available sponsorship options please see [Conference Spo
 
 For more details and to confirm your sponsorship, please contact [Ori Troyna](mailto:ori.troyna@owasp.org).   
 
-![What You Get for Sponsoring AppSec IL 2020]({{ site.url }}/assets/img/AppSec_2020_Sponsor.png "Owasp Israel Sponsoring tiers")
+**PREMIUM TIERS**
+
+| Benefit | Silver | Gold | Platinum Limited |
+| ------------------- |:----------------------:|:---------------:|:--------------:|
+|Logo on Website|   280x100|    375x150|    500x200|
+|Logo on background|    No| Yes|    Large|
+|Logo on Chapter page|  No| Yes|    Yes|
+|Logo in Website header|    No| No| Yes|
+|Vendor blurb on Sponsors page| No| 50 words|   100 words|
+|Link to sponsor chat|  Yes|    Yes|    Yes|
+|Link to sponsor video/zoom|    No| Yes|    Yes|
+|Vendor passport raffle|    No| Yes|    Yes|
+|Price:|    $2,000|     $3,000|     $4,500 |
+
 
 **Sponsorship options:**
 
@@ -59,4 +72,8 @@ many of the conference attendees are security professionals, and your potential 
 
 Price: $1,500 USD
 
+* 20-minutes appsec quiz
+Limited to one per day, technical quiz about Application security and product security in general. 
+
+Price: $1,000 USD, (Gold tier: 50%, Platinum: 80%)
 
