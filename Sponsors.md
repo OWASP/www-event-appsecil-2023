@@ -72,4 +72,8 @@ many of the conference attendees are security professionals, and your potential 
 
 Price: $1,500 USD
 
+* 20-minutes appsec quiz
+Limited to one per day, technical quiz about Application security and product security in general. 
+
+Price: $1,000 USD, (Gold tier: 50%, Platinum: 80%)
 
