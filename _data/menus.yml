@@ -4,10 +4,14 @@
   url  : CFP
 - title: CFT
   url  : CFT
+- title: Sponsors
+  url  : Sponsors
+- title: Register
+  url  : Register
 #- title: Location
 #  url  : Location
-#- title: Agenda
-#  url  : Agenda
+- title: Agenda
+  url  : Agenda
 #- title: Training
 #  url  : Training
 #- title: WIA
@@ -20,5 +24,4 @@
 #  url  : Sponsors
 #- title: Team
 #  url  : Team
-#- title: Register
-#  url  : Register
+

@@ -26,7 +26,7 @@ However, preference will be given to submissions which:
 - Have a strong interactive and hands-on focus
 - Proven experience delivering online training
 
-### [Please submit your Training proposal here!](https://www.papercall.io/appsecisrael2020trainingday)
+### Thanks for your submissions, CFT has now closed!
 
 ### Timeline 
 
