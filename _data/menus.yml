@@ -6,6 +6,8 @@
   url  : CFT
 - title: Sponsors
   url  : Sponsors
+- title: Register
+  url  : Register
 #- title: Location
 #  url  : Location
 - title: Agenda
@@ -22,5 +24,4 @@
 #  url  : Sponsors
 #- title: Team
 #  url  : Team
-#- title: Register
-#  url  : Register
+
