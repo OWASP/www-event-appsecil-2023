@@ -22,11 +22,6 @@ whether as an appsec professional or as a developer of secure, resilient, and ro
 
 ---
 
-### Schedule - Track 1
+### Schedule
 
-<a id="sched-embed" href="https://{{ site.sched }}/list/descriptions/type/Training/Track+1" data-sched-bg="dark">View the {{ site.title }} Training Day Track 1 schedule.</a><script type="text/javascript" src="https://{{ site.sched }}/js/embed.js"></script>
-
-
-### Schedule - Track 2
-
-<a id="sched-embed" href="https://{{ site.sched }}/list/descriptions/type/Training/Track+2" data-sched-bg="dark">View the {{ site.title }} Training Day Track 2 schedule.</a><script type="text/javascript" src="https://{{ site.sched }}/js/embed.js"></script>
+<a id="sched-embed" href="https://{{ site.sched }}/overview/type/Training" data-sched-bg="dark">View the {{ site.title }} Training Day Track 1 schedule.</a><script type="text/javascript" src="https://{{ site.sched }}/js/embed.js"></script>
