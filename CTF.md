@@ -20,7 +20,7 @@ Good Luck :)
 
 {% if site.data.sponsors.ctf %}
 <div class="sponsor-tier">
-	Sponsored by:
+	Sponsored by:<br/>
   {% for sponsor in site.data.sponsors.ctf %}
 	<span class="sponsor community-sponsor">
 	  <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
