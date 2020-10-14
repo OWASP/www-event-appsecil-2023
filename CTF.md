@@ -11,7 +11,7 @@ The CTF Team Members: Maor Tal, Avi Wolicki, Noy Pearl, Meitar Reihan, Shay Nehm
 
 Make sure to sign up (with a valid email address) at the following link:  
 
-[https://owaspil.ctf.today/](https://owaspil.ctf.today/)
+[https://appsecil2020.ctf.today/](https://appsecil2020.ctf.today/)
 
 
 The challenge will be opened on Saturday, October 24th at 7pm.
