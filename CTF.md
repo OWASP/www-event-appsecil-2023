@@ -16,7 +16,7 @@ Make sure to sign up (with a valid email address) at the following link:
 
 The challenge will be opened on Saturday, October 24th at 7pm.
 
-Good Luck :)
+Good Luck  :)
 
 {% if site.data.sponsors.ctf %}
 <div class="sponsor-tier">
