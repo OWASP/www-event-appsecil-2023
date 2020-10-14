@@ -3,7 +3,7 @@
 
 ## Agenda 
 
-You can now see the agenda for the main track of talks on 28th October below. For the training schedule, see the [Training](training.md) page!
+You can now see the agenda for the main track of talks on 28th October below. For the training schedule, see the [training](Training) page!
 
 ### Schedule
 
