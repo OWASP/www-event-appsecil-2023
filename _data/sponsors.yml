@@ -108,7 +108,7 @@ alacarte:
   type : T-Shirts 
   
 ctf:
-- name : Amazon
-  url  : https://www.amazon.com/
-  image: Amazon.png
+- name : Amazon Web Services
+  url  : https://aws.amazon.com/
+  image: AWS.png
   type : CTF
