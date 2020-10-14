@@ -108,12 +108,7 @@ alacarte:
   type : T-Shirts 
   
 ctf:
-- name : F5
-  url  : https://www.f5.com/
-  image: F5-logo.png
+- name : Amazon
+  url  : https://www.amazon.com/
+  image: Amazon.png
   type : CTF
-- name : Scorpiones
-  url  : https://scorpiones.io/
-  image: Scorpiones.png
-  type : CTF
-
