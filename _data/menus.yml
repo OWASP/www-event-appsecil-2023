@@ -1,9 +1,9 @@
 - title: Home
   url  : /
-- title: CFP
-  url  : CFP
-- title: CFT
-  url  : CFT
+#- title: CFP
+#  url  : CFP
+#- title: CFT
+#  url  : CFT
 - title: Sponsors
   url  : Sponsors
 - title: Register
@@ -12,12 +12,12 @@
 #  url  : Location
 - title: Agenda
   url  : Agenda
-#- title: Training
-#  url  : Training
+- title: Training
+  url  : Training
 #- title: WIA
 #  url  : WIA 
-#- title: CTFW
-#  url  : ctf
+- title: CTF
+  url  : CTF
 #- title: CV Workshop
 #  url  : Resume
 #- title: Sponsors

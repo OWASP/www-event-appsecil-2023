@@ -171,7 +171,7 @@ header {
     padding: 2em 4em;
 
     div {
-      background: $medium;
+      background: #fff;
       margin-bottom: 10px;
       
       hr {
@@ -282,6 +282,7 @@ footer {
 }
 
 .sponsor-tier {
+    background-color: $medium !important;
     text-align: center;
     padding-bottom: 40px;
 }

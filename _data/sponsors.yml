@@ -4,5 +4,3 @@ gold:
 - name : Checkmarx
   url  : https://www.checkmarx.com/ 
   image: Checkmarx.png
-
-
