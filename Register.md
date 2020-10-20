@@ -9,7 +9,7 @@ However, it is absolutely required to register ahead of time.
 
 [Register to conference](https://www.meetup.com/OWASP-Israel/events/273224114/)
 
-[Register to training](https://www.meetup.com/OWASP-Israel/events/273224114/)
+[Register to training](https://www.meetup.com/OWASP-Israel/events/273501887/)
 
 ***Please note that you must register for each day you wish to attend!***  
 
