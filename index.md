@@ -8,7 +8,7 @@
 
 **{{ site.title }} will take place on {{ site.dates }} and be broadcast online, worldwide.**
 
-The agendas for the [training day](Training) and the [main track talks](Agenda) have now been published!
+The agendas and **links for webinars** for the [training day](Training) and the [main track talks](Agenda) have now been published!
 
 The annual OWASP AppSec Israel Conference is the largest conference in Israel for application security,  
 and regularly draws hundreds of participants. [Over 700 people attended the previous conference](https://2018.appsecil.org)! 

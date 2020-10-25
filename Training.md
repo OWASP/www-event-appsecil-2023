@@ -20,6 +20,17 @@ This year we are lucky enough to have **two** parallel training tracks for atten
 The goal of the training tracks are to enable trainees get the initial understanding and hands-on skills required to find their path in the appsec field,   
 whether as an appsec professional or as a developer of secure, resilient, and robust code. 
 
+### Workshop Webinars Url
+
+| Session        | Track           | Url  |
+| ------------- |:-------------:| -----:|
+| Define and Execute Your Product Security Strategy With OWASP SAMM 2      | A | https://zoom.us/j/97846724162 |
+| Intro to Hacking Web Applications      | A      |   https://zoom.us/j/95669085546 |
+| Threat Modelling with the OWASP Mobile Top 10 | B  |    https://zoom.us/j/91802465439 |
+| Android Mobile Hacking Workshop | B | https://zoom.us/j/95302160276 | 
+| iOS Mobile Hacking Workshop | B | https://zoom.us/j/97475211647 | 
+
+
 ---
 
 ### Schedule
