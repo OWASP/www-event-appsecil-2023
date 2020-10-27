@@ -15,6 +15,7 @@ This year we are lucky enough to have **two** parallel training tracks for atten
 
 **Track 1**  will be focused on traditional web application security and **Track 2** will be focused on mobile application security. Both tracks will combine expert trainers with hands-on and practical exercises to help you get a better understanding of your chosen area.
 
+
 ### Goals   
 
 The goal of the training tracks are to enable trainees get the initial understanding and hands-on skills required to find their path in the appsec field,   
