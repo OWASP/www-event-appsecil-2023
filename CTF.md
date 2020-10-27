@@ -7,7 +7,7 @@ The conference is around the corner, it is time to sharpen your minds and prepar
 
 This year, The CTF team (professionals from various places), led by Tomer Zait (realgam3) have worked hard to create a new, interesting, unique challenges, in the fields of application security, cloud security, mobile security, code review, devsecops and more.
 
-The CTF Team Members: Maor Tal, Avi Wolicki, Noy Pearl, Meitar Reihan, Shay Nehmad, Amit Avrahamov, Ben Salem, Nimrod Levy, Artur Isakhanyan, Michael Maltsev, Nadav Tasher.
+The CTF Team Members: Maor Tal (th3location), Avi Wolicki, Noy Pearl, Meitar Reihan, Shay Nehmad, Amit Avrahamov, Ben Salem, Nimrod Levy, Artur Isakhanyan, Michael Maltsev, Itai Ben-Natan, Gal Goldshtein.
 
 Make sure to sign up (with a valid email address) at the following link:  
 
