@@ -17,7 +17,7 @@ You can now see the agenda for the main track of talks on 28th October below. Fo
 </thead>
 <tbody>
 <tr>
-<td align="left"><ul>Lior Manor</ul><ul>How to hack AWS accounts, and how to detect it fast - including demo!</ul><ul>Using OWASP Nettacker For Recon and Vulnerability Scanning</ul><ul>Building Products with Privacy and Trust as a baseline</ul><ul>OWASP SAMM 2: Your Dynamic Software Security Journey</ul><ul>CSP is broken, let’s fix it</ul><ul>Dev, Sec, Oops: How Agile Security increases Attack Surface</ul><ul>GraphQL APIs from bug hunter's perspective</ul><ul>Tag soup – food for mXSS</ul><ul>Privacy &amp; prejudice: on privacy threat modeling misconceptions</ul></td>
+<td align="left"><ul>Lior Manor</ul><ul>How to hack AWS accounts, and how to detect it fast - including demo!</ul><ul>Using OWASP Nettacker For Recon and Vulnerability Scanning</ul><ul>Building Products with Privacy and Trust as a baseline</ul><ul>OWASP SAMM 2: Your Dynamic Software Security Journey</ul><ul>CSP is broken, let’s fix it</ul><ul>Dev, Sec, Oops: How Agile Security increases Attack Surface</ul><ul>GraphQL APIs from bug hunter's perspective</ul><ul>Tag soup – food for mXSS</ul><ul>Privacy &amp; prejudice: on privacy threat modeling misconceptions</ul><ul>Final Keynote with Dave Lewis</ul></td>
 <td align="center">A</td>
 <td align="right"><a href="https://zoom.us/j/94644636569">https://zoom.us/j/94644636569</a></td>
 </tr>
