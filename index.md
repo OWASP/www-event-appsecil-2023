@@ -6,11 +6,11 @@
 
 ---
 
+**All recorded sessions are available in OWASP Israel Youtube channel [here!](https://www.youtube.com/playlist?list=PLA4gj-PiNukcgk6vpXtfRXj4oq4uMAwEG)**
+
 **{{ site.title }} will take place on {{ site.dates }} and be broadcast online, worldwide.**
 
 The agendas and **links for webinars** for the [training day](Training) and the [main track talks](Agenda) have now been published!
-
-Recorder Sessions are [here!](https://www.youtube.com/playlist?list=PLA4gj-PiNukcgk6vpXtfRXj4oq4uMAwEG)
 
 The annual OWASP AppSec Israel Conference is the largest conference in Israel for application security,  
 and regularly draws hundreds of participants. [Over 700 people attended the previous conference](https://2018.appsecil.org)! 
