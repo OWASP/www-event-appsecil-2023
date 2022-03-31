@@ -6,6 +6,7 @@
 
 ---
 
+<!-- rebuild -->
 **All recorded sessions are available in OWASP Israel Youtube channel [here!](https://www.youtube.com/playlist?list=PLA4gj-PiNukcgk6vpXtfRXj4oq4uMAwEG)**
 
 **{{ site.title }} will take place on {{ site.dates }} and be broadcast online, worldwide.**
