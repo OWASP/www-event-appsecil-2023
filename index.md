@@ -35,21 +35,24 @@ If you are responsible for, or involved with:
 {{ site.title }} will have a lecture track from an amazing group of speakers, "unconference" style discussion sessions, and additional activities such as a Capture the Flag competition.   
 
 We also host sponsors to promote the latest advances in security technology relevant to application security and developers.   
+
 a<!--
+
 {% comment %}
 {% include keynotes.md %}
 
 **Attendance is free, but [registration is required](Register)!**
--->a
+
 
 Don't forget to use the [#AppSecIL hashtag](https://twitter.com/hashtag/AppSecIL) on social media!     
 
-b<!--
+
 Please note that AppSecIL is family friendly! If you need to bring your baby with you in order to attend, please do so! We only request that you be sensitive to others close to you, if your child needs to make noise.    
 Unfortunately we were not able to offer on-site childcare this year.   
 
 Note: The auditorium and other classrooms are wheelchair accessible. Please notify a staff member if there are any problems
 {% endcomment %}
+
 -->b
 
 ---
