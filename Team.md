@@ -8,8 +8,13 @@ The following people are working to ensure that OWASP AppSec Israel is such a fa
 
 ### Contributors
 
-<a id="sched-embed" href="https://{{ site.sched }}/directory/artists" data-sched-bg="dark" data-sched-sidebar="no">View the {{ site.title }} schedule &amp; directory.</a><script type="text/javascript" src="https://{{ site.sched }}/js/embed.js"></script> 
+* Ori Troyna
+* Shira Shamban
+* Avi Douglen
+* Josh Grossman
+
+<!--<a id="sched-embed" href="https://{{ site.sched }}/directory/artists" data-sched-bg="dark" data-sched-sidebar="no">View the {{ site.title }} schedule &amp; directory.</a><script type="text/javascript" src="https://{{ site.sched }}/js/embed.js"></script> -->
 
 <br/>
 If you feel that you also can contribute or have interesting ideas regarding the conference,   
-please don't hesitate to contact [Or Katz](mailto:or.katz@owasp.org) directly.
+please don't hesitate to contact [Ori Troyna](mailto:ori.troyna@owasp.org) or [Shira Shamban](mailto:shira.shamban@owasp.org) directly.
