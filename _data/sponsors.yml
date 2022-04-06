@@ -1,14 +1,10 @@
 
 gold:
-- name : Checkmarx
-  url  : https://www.checkmarx.com/ 
-  image: Checkmarx.png  
-- name : Amdocs
-  url  : https://www.amdocs.com/ 
-  image: amdocs.png 
-  
+- name : tbc
+  url  : owasp.org
+  image: ../owasp_logo.jpg
 
 ctf:
-- name : AWS
-  url  : https://aws.amazon.com/
-  image: aws.png
+- name : tbc
+  url  : owasp.org
+  image: ../owasp_logo.jpg
