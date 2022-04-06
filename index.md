@@ -35,11 +35,12 @@ If you are responsible for, or involved with:
 {{ site.title }} will have a lecture track from an amazing group of speakers, "unconference" style discussion sessions, and additional activities such as a Capture the Flag competition.   
 
 We also host sponsors to promote the latest advances in security technology relevant to application security and developers.   
-
+<!--
 {% comment %}
-<!--{% include keynotes.md %}
+{% include keynotes.md %}
 
-**Attendance is free, but [registration is required](Register)!**-->
+**Attendance is free, but [registration is required](Register)!**
+-->
 
 Don't forget to use the [#AppSecIL hashtag](https://twitter.com/hashtag/AppSecIL) on social media!     
 
@@ -47,7 +48,9 @@ Don't forget to use the [#AppSecIL hashtag](https://twitter.com/hashtag/AppSecIL
 Unfortunately we were not able to offer on-site childcare this year.   
 
 Note: The auditorium and other classrooms are wheelchair accessible. Please notify a staff member if there are any problems
-{% endcomment %}-->
+{% endcomment %}
+-->
+
 ---
 
 ### Hosted by:  
