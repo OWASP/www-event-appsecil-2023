@@ -36,7 +36,7 @@ If you are responsible for, or involved with:
 
 We also host sponsors to promote the latest advances in security technology relevant to application security and developers.   
 
-a<!--
+
 
 {% comment %}
 {% include keynotes.md %}
@@ -53,7 +53,7 @@ Unfortunately we were not able to offer on-site childcare this year.
 Note: The auditorium and other classrooms are wheelchair accessible. Please notify a staff member if there are any problems
 {% endcomment %}
 
--->b
+
 
 ---
 
