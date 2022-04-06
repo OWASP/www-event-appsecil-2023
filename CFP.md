@@ -25,17 +25,17 @@ We especially appreciate talks from security folk in large organizations (“sec
 - **Policy and legal**: Legislation, privacy, regulations and compliance, C-level considerations, etc.
 - **Cool hacks and other fun stuff**: cryptography, social engineering, etc.
 
-### Thanks for your submissions, the CFP has now closed!
-
 We use a double-blind review process, wherein the reviewers do not see the identity of the submitter until after the review is complete. We hope this will improve the diversity of our speakers, and encourage new speakers to submit.   
 
 If this will be your first time presenting at a conference, we can offer you a speaker mentor if you want, though it is not mandatory. (Mentorship is available for experienced speakers too :-) )  
 
 ### Timeline 
 
-CFP closes: September 19, 2020  
+tbc
+
+<!--CFP closes: September 19, 2020  
 Notification: October 1, 2020   
-Conference: October 28, 2020   
+Conference: October 28, 2020   -->
 
 ---
 
