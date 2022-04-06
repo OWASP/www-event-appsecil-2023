@@ -5,7 +5,8 @@
 
 ### Format to be confirmed :)
 
-<!--We are now calling for pro-bono trainers who are willing to support the Israeli (and international) AppSec community and submit proposals to deliver this training.
+<!--
+We are now calling for pro-bono trainers who are willing to support the Israeli (and international) AppSec community and submit proposals to deliver this training.
 
 This year we are looking for multiple trainers to volunteer to deliver, hands-on, workshop-style, virtual training in English lasting between 1.5 and 3 hours rather than a full day of training. The training will potentially be dual track and whilst primarilly aimed at the Israeli application security community, will also be open to International attendees as well. 
 
@@ -33,6 +34,6 @@ However, preference will be given to submissions which:
 CFP closes: September 19, 2020  
 Notification: October 1, 2020   
 Training: October 27, 2020  
-
+-->
 ---
 
