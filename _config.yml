@@ -1,11 +1,11 @@
-title: AppSec Israel 2022
-description: OWASP AppSec Israel annual conference - 2022 edition!
+title: AppSec Israel 2023
+description: OWASP AppSec Israel annual conference - 2023 edition!
 
 # Since GH pages override this to "true", we test this value to see if we are running locally
 safe: false
 
 # Conference dates
-dates:  September or October, 2022
+dates:  May, 2023
 #trainingday: Tuesday, October 27th
 #confday: Wednesday, October 28th
 
