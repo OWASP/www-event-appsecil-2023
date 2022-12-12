@@ -12,6 +12,7 @@ The following people are working to ensure that OWASP AppSec Israel is such a fa
 * Shira Shamban
 * Avi Douglen
 * Josh Grossman
+* Oz Avenstein
 
 <!--<a id="sched-embed" href="https://{{ site.sched }}/directory/artists" data-sched-bg="dark" data-sched-sidebar="no">View the {{ site.title }} schedule &amp; directory.</a><script type="text/javascript" src="https://{{ site.sched }}/js/embed.js"></script> -->
 
