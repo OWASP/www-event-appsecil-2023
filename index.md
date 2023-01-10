@@ -8,7 +8,7 @@
 
 <!-- rebuild -->
 
-**{{ site.title }} will take place during {{ site.dates }}, final date to be confirmed!**
+**{{ site.title }} will take place on {{ site.dates }}!**
 
 <!--The agendas and **links for webinars** for the [training day](Training) and the [main track talks](Agenda) have now been published!-->
 
