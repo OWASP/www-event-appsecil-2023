@@ -3,6 +3,10 @@
 
 ## Call for Presentations
 
+### To be confirmed :)
+
+<!--
+
 ### What are we looking for? 
 
 Anything and everything AppSec! Application security, software security, web security...
@@ -33,7 +37,7 @@ If this will be your first time presenting at a conference, we can offer you a s
 
 tbc
 
-<!--CFP closes: September 19, 2020  
+CFP closes: September 19, 2020  
 Notification: October 1, 2020   
 Conference: October 28, 2020   -->
 
