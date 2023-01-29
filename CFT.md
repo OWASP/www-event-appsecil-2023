@@ -3,37 +3,39 @@
 
 ## Call for Training
 
-### Format to be confirmed :)
+We are now calling for trainers who are willing to support the Israeli AppSec community and submit proposals to deliver these workshops on a free/pro-bono basis.
 
-<!--
-We are now calling for pro-bono trainers who are willing to support the Israeli (and international) AppSec community and submit proposals to deliver this training.
+This year, we are looking for multiple trainers to deliver hands-on workshops in English lasting between 1.5 and 3 hours although we would also be interested in proposals for a full day workshop for a particularly good fit.
 
-This year we are looking for multiple trainers to volunteer to deliver, hands-on, workshop-style, virtual training in English lasting between 1.5 and 3 hours rather than a full day of training. The training will potentially be dual track and whilst primarilly aimed at the Israeli application security community, will also be open to International attendees as well. 
+The workshops should be aimed at developers and newcomers to application security. The goal is to improve the security of all software and grow the pool of skilled professionals in the field.
+
+### Topics
 
 Topics we are interesting in seeing in proposals include:
 
-- Workshops on common (OWASP Top 10 2017) attacks and their mitigations
-- Secure development with modern paradigms such as Single Page Applications and WebSockets.
-- General application security mechanisms
-- Secure coding guidelines
+* Workshops on common (OWASP Top 10 2021) attacks and their mitigations
+* Secure development with modern paradigms such as Single Page Applications and WebSockets.
+* General application security mechanisms
+* Secure coding guidelines
+* Selection considerations
 
-The CFT team will select the training based on content, quality of submission, and expertise of trainer(s), and are completely independent of any vendor or sponsor support. 
+Preference will be given to submissions which:
 
-However, preference will be given to submissions which:
-
-- Make use of OWASP projects as part of the workshops
-- Provide content and exercises which the attendees can take home with them
-- Refer to modern technologies such as (but not limited to) node.js, Go, Python, Scala
-- Have a strong interactive and hands-on focus
-- Proven experience delivering online training
-
-### Thanks for your submissions, CFT has now closed!
+* Make use of OWASP projects as part of the workshops
+* Provide content and exercises which the attendees can take home with them
+* Refer to modern technologies such as (but not limited to) node.js, Go, Python, Scala
+* Have a strong interactive and hands-on focus.
+* Do not rely on downloading large virtual machines for exercises.
 
 ### Timeline 
 
-CFP closes: September 19, 2020  
-Notification: October 1, 2020   
-Training: October 27, 2020  
--->
+* CFP closes: February 28, 2023
+* Notification: March 15, 2023
+* Training: May 16, 2023
+
+### Link for CFT
+
+[https://www.papercall.io/appsecil2023-cfw](https://www.papercall.io/appsecil2023-cfw)
+
 ---
 
