@@ -1,7 +1,7 @@
 ---
 ---
 
-## Call for Training
+## Call for Workshops
 
 We are now calling for trainers who are willing to support the Israeli AppSec community and submit proposals to deliver these workshops on a free/pro-bono basis.
 
@@ -33,7 +33,7 @@ Preference will be given to submissions which:
 * Notification: March 15, 2023
 * Training: May 16, 2023
 
-### Link for CFT
+### Link for CFW
 
 [https://www.papercall.io/appsecil2023-cfw](https://www.papercall.io/appsecil2023-cfw)
 
