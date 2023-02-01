@@ -17,11 +17,14 @@ Topics we are interesting in seeing in proposals include:
 * Secure development with modern paradigms such as Single Page Applications and WebSockets.
 * General application security mechanisms
 * Secure coding guidelines
-* Selection considerations
+* Using tools/automation to solve AppSec problems
+
+### Selection considerations
 
 Preference will be given to submissions which:
 
 * Make use of OWASP projects as part of the workshops
+* Use freely available tools and are not vendor focused
 * Provide content and exercises which the attendees can take home with them
 * Refer to modern technologies such as (but not limited to) node.js, Go, Python, Scala
 * Have a strong interactive and hands-on focus.
