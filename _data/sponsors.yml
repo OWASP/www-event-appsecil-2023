@@ -1,10 +1,30 @@
+diamond:
+- name : Jit
+  url  : https://www.jit.io/
+  image: Jit.png
 
-gold:
-- name : tbc
-  url  : owasp.org
-  image: ../owasp_logo.jpg
+platinum: 
+- name : Frontegg
+  url  : https://frontegg.com/
+  image: Frontegg.png
 
-ctf:
-- name : tbc
-  url  : owasp.org
-  image: ../owasp_logo.jpg
+# gold:
+# - name : tbc
+#   url  : owasp.org
+#   image: ../owasp_logo.jpg
+
+# silver:
+# - name : tbc
+#   url  : owasp.org
+#   image: ../owasp_logo.jpg
+
+bronze: 
+- name : Secure Code Warrior
+  url  : https://www.securecodewarrior.com/
+  image: SecureCodeWarrior.png
+
+# alacarte:
+# - name : tbc
+#   url  : owasp.org
+#   image: ../owasp_logo.jpg
+#   type : CTF
