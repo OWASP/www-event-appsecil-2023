@@ -39,11 +39,11 @@ Taxis are available outside of the Arrivals Hall (Level G) of Ben Gurion Airport
 - By public transportation   
 Trains are available outside of the Arrivals Hall (Level G) of Ben Gurion Airport at a cost of 13.5 Shekels (US$ 4) and the average trip is about 15 mins till the Tel Aviv University stop. From there it is approximately a 10 minute walk to the venue. Local busses can also be used. 
 
-[Click here to view the train schedule](http://www1.rail.co.il/EN/Pages/Homepage.aspx).
+[Click here to view the train schedule](https://www.rail.co.il/en).
 
 ### Visas
 Prior to booking flights, don't forget to ensure that your passport is valid until at least 6 months after entry into Israel.   
-Participants from most countries [do not require a visa to enter Israel](https://en.wikipedia.org/wiki/Visa_policy_of_Israel), but we suggest that you check this with your travel agent or on the website of the [Israeli Ministry of Foreign Affairs](http://www.mfa.gov.il/mfa/consularservices/pages/visas.aspx).
+Participants from most countries [do not require a visa to enter Israel](https://en.wikipedia.org/wiki/Visa_policy_of_Israel), but we suggest that you check this with your travel agent or on the website of the [Israeli Ministry of Foreign Affairs](https://embassies.gov.il/washington/ConsularServices/Pages/Visa-Information.aspx).
 
 --- 
 
@@ -86,6 +86,7 @@ Strolling down Dizengoff Street is a favorite pastime for many residents. Plenty
 
 ### OTHER CITIES
 Tel Aviv is only a 40 minute drive from the historic city of Jerusalem, Israel's capital and 2nd largest city. You can bathe in the Dead Sea with a 1.5 hour drive or climb the ancient mountain fortress at Massada with 30 minutes more. It is just an hour and a half from Nazareth, 2 hours from the Sea of Galilee (Kinneret), and many other locations and tourist attractions.   
+
 Alternatively, Tel Aviv is home to several high-tech parks, the largest of which is 20 minutes north in Hertzeliya. 
 
 
