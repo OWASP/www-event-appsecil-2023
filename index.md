@@ -12,7 +12,7 @@
 
 Get more information on how you can [sponsor the conference](https://appsecil.org/assets/AppSecIL2023Sponsorships.pdf)!
 
-The [**CFP**](/CFP) and [**CFW**](/CFW) are now open!
+The [**CFP**](/CFP) is now open!
 
 <!--The agendas and **links for webinars** for the [training day](Training) and the [main track talks](Agenda) have now been published!-->
 
