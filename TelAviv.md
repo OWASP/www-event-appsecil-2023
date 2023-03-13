@@ -17,13 +17,13 @@ A modern cultural center, Tel Aviv, boasts many fine art galleries, entertainmen
 Apart from the open air markets and shopping malls, popular street shopping areas like the bohemian Sheinkin Street and Neve Zedek, portray the newest trends in fashion and styles. Tel Aviv is a perfect choice for international visitors, and affords a great opportunity to enjoy the vibrant spirit of the city.   
 
 ### Climate 
-The weather in Tel Aviv in early September is hot with highs of approx. 30°C during the day and lows of 20°C in the evening.
+The weather in Tel Aviv in mid-May is very pleasant with highs of approx. 24°C during the day and lows of 17°C in the evening.
 
 ### Currency   
-The local currency in Israel is the New Israeli Shekel (NIS). As of August, 2018:
+The local currency in Israel is the New Israeli Shekel (NIS). As of March, 2023:
 
-1 USD = ~3.7 NIS
-1 EUR = ~4.2 NIS
+1 USD = ~3.63 NIS
+1 EUR = ~3.87 NIS
 
 ---
 
