@@ -4,7 +4,7 @@
   url  : CFP
 #- title: CFW
 #  url  : CFW
-- title: Sponsor!
+- title: Sponsor AppSecIL!
   url  : /assets/AppSecIL2023Sponsorships.pdf
 #- title: Sponsors
 #  url  : Sponsors
@@ -22,8 +22,8 @@
 #  url  : CTF
 #- title: CV Workshop
 #  url  : Resume
-#- title: Sponsors
-#  url  : Sponsors
+- title: Current Sponsors
+  url  : Sponsors
 - title: Team
   url  : Team
 
