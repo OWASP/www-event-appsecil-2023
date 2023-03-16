@@ -19,7 +19,7 @@ There is also a cost-effective “Community Supporter” option for non-profits,
 
 Details on the available sponsorship options are in our **[Sponsorship Prospectus]({{ site.url }}/assets/AppSecIL2023Sponsorships.pdf)**.  
 
-For more details and to confirm your sponsorship, please contact [Ori Troyner](ori.troyner@owasp.org) or [Avi D](mailto:avi.douglen@owasp.org).   
+For more details and to confirm your sponsorship, please contact [Ori Troyner](mailto:ori.troyner@owasp.org) or [Avi D](mailto:avi.douglen@owasp.org).   
 
 {% if site.data.sponsors.diamond %}
 ### Diamond Sponsor 
