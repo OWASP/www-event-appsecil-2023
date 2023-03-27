@@ -58,6 +58,9 @@ Note: The auditorium and other classrooms are wheelchair accessible. Please noti
 {% endcomment %}
 
 
+---
+
+{% include Sponsors.md %}
 
 ---
 
