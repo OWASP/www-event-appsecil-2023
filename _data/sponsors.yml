@@ -7,16 +7,26 @@ platinum:
 - name : Frontegg
   url  : https://frontegg.com/
   image: Frontegg.png
-
+- name : Ox.security
+  url  : https://www.ox.security/
+  image: OxSecurity.svg
+  
+  
 # gold:
 # - name : tbc
 #   url  : owasp.org
 #   image: ../owasp_logo.jpg
 
 # silver:
-# - name : tbc
-#   url  : owasp.org
-#   image: ../owasp_logo.jpg
+- name : OxEye
+  url  : https://www.oxeye.io/
+  image: OxEye.svg
+- name : Contrast Security
+  url  : https://www.contrastsecurity.com/
+  image: Contrast.svg
+- name : Bright Security
+  url  : https://brightsec.com/
+  image: Brightsec.png
 
 bronze: 
 - name : Secure Code Warrior
