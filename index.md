@@ -60,10 +60,6 @@ Note: The auditorium and other classrooms are wheelchair accessible. Please noti
 
 ---
 
-{% include Sponsors.md %}
-
----
-
 ### Hosted by:  
 
 <a href="https://owasp.org">
