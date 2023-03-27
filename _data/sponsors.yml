@@ -17,7 +17,7 @@ platinum:
 #   url  : owasp.org
 #   image: ../owasp_logo.jpg
 
-# silver:
+silver:
 - name : OxEye
   url  : https://www.oxeye.io/
   image: OxEye.svg
