@@ -7,7 +7,7 @@ These workshops are **NOT** for security experts with many years of experience, 
 
 The aim is to provide a hands-on, crash course in key application security topics for developers, QA engineers, and anyone new to the AppSec field! 
 
-The workshops Day is free to attend, however [registration is required](Register). 
+The workshops day is free to attend, however [registration is required](/Register). 
 
 ### What are these workshops about? 
 
