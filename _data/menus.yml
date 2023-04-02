@@ -12,8 +12,8 @@
 #  url  : Register
 - title: Location
   url  : Location
-- title: Agenda
-  url  : Agenda
+#- title: Agenda
+#  url  : Agenda
 - title: Workshops
   url  : Workshops
 #- title: WIA
