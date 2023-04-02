@@ -3,17 +3,18 @@
 
 ## Workshops Day
 
-These workshops is **NOT** for security experts with many years of experience, but for the rest of us:   
+These workshops are **NOT** for security experts with many years of experience, but for the rest of us:   
 
 The aim is to provide a hands-on, crash course in key application security topics for developers, QA engineers, and anyone new to the AppSec field! 
 
 The workshops Day is free to attend, however [registration is required](Register). 
 
-### What is these workshops about? 
+### What are these workshops about? 
 
-This year we are lucky enough to have **two** parallel workshops tracks for attendees to learn from.
+This year we are lucky enough to have **three** parallel workshops tracks for attendees to learn from.
 
-**Track 1**  will be focused on Threat Modelling and secure coding and **Track 2** will be focused on attacking and securing APIs Both tracks will combine expert trainers with hands-on and practical exercises to help you get a better understanding of your chosen area.
+**Track 1**  will be focused on Threat Modelling and Secure Coding, **Track 2** will be focused on attacking and securing APIs and **Track 3** will be focused on DevSecOps.
+All tracks will combine expert trainers with hands-on and practical exercises to help you get a better understanding of your chosen area.
 
 
 ### Goals   
