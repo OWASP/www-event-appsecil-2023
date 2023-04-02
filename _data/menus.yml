@@ -12,10 +12,10 @@
 #  url  : Register
 - title: Location
   url  : Location
-#- title: Agenda
-#  url  : Agenda
-#- title: Training
-#  url  : Training
+ title: Agenda
+  url  : Agenda
+ title: Workshops
+  url  : Workshops
 #- title: WIA
 #  url  : WIA 
 #- title: CTF
