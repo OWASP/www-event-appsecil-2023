@@ -40,7 +40,7 @@ If you are responsible for, or involved with:
 
 We also host sponsors to promote the latest advances in security technology relevant to application security and developers.   
 
-
+{% include Sponsors.md#diamond-sponsor %}
 
 {% comment %}
 {% include keynotes.md %}
