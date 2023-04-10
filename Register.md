@@ -7,7 +7,7 @@ This year, we are charging a relatively small, symbolic fee for attending the co
 
 The Workshops day remains free and aimed at developers and newcomers to application security rather than experienced professionals.
 
-[Register for AppSecIL now!]()
+[Register for AppSecIL now!](https://www.eventbrite.com/e/594694937567/)
 
 ***Please do not register for the Workshops unless you are definitely suitable for them and you are confident you will be able to attend!***
 
