@@ -12,7 +12,7 @@
 
 Get more information on how you can [sponsor the conference](https://appsecil.org/assets/AppSecIL2023Sponsorships.pdf)!
 
-Thanks to **[the organizations](/Sponsors)** who have already confirmed their sponsorship of the conference.
+Thanks to **[the organizations](#sponsors)** who have already confirmed their sponsorship of the conference.
 
 ### **Registration is [now open](/Register)!!!**
 
