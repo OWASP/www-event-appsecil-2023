@@ -63,7 +63,7 @@ Note: The auditorium and other classrooms are wheelchair accessible. Please noti
 ---
 
 ### SPONSORS:  
-<div style="width:850px; height:1200px; overflow:hidden; overflow-x:hidden; ">
+<div style="width:950px; height:1200px; overflow:hidden; overflow-x:hidden; ">
    <iframe src="https://appsecil.org/Sponsors" scrolling="no" style="width:1000px; height:2200px; margin-top:-850px; overflow:hidden;"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
