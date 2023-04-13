@@ -39,7 +39,7 @@ For more details and to confirm your sponsorship, please contact [Ori Troyna](ma
 {% endif %}
 
 {% if site.data.sponsors.platinum %}
-### Platinum Sponsor 
+### Platinum Sponsors
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.platinum %}
 	<span class="sponsor platinum-sponsor">

@@ -12,7 +12,7 @@
 
 Get more information on how you can [sponsor the conference](https://appsecil.org/assets/AppSecIL2023Sponsorships.pdf)!
 
-Thanks to **[the organizations](/Sponsors)** who have already confirmed their sponsorship of the conference
+Thanks to **[the organizations](/Sponsors)** who have already confirmed their sponsorship of the conference.
 
 ### **Registration is [now open](/Register)!!!**
 
@@ -63,6 +63,9 @@ Note: The auditorium and other classrooms are wheelchair accessible. Please noti
 ---
 
 ### Thanks to our fabulous sponsors:  
+
+More info on sponsoring the conference [is here](/Sponsors).
+
 <div id="sponsors" style="width:950px; height:1200px; overflow:hidden; overflow-x:hidden; ">
    <iframe src="https://appsecil.org/Sponsors" scrolling="no" style="width:1000px; height:2200px; margin-top:-850px; overflow:hidden;"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
