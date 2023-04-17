@@ -43,6 +43,10 @@ If you are responsible for, or involved with:
 We also host sponsors to promote the latest advances in security technology relevant to application security and developers.   
 
 {% include Sponsors.md#diamond-sponsor %}
+{% include Sponsors.md#platinum-sponsor %}
+{% include Sponsors.md#gold-sponsor %}
+{% include Sponsors.md#silver-sponsor %}
+{% include Sponsors.md#bronze-sponsor %}
 
 {% comment %}
 {% include keynotes.md %}
