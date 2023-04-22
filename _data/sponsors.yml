@@ -9,7 +9,7 @@ platinum:
   image: Frontegg.png
 - name : Ox.security
   url  : https://www.ox.security/
-  image: OxSecurity.svg
+  image: OxSecurity.png
   
   
 # gold:
