@@ -27,6 +27,9 @@ silver:
 - name : Bright Security
   url  : https://brightsec.com/
   image: Brightsec.png
+- name : AppSec Labs
+  url  : https://appsec-labs.com/
+  image: AppSecLabs.jpg
 
 bronze: 
 - name : Secure Code Warrior
