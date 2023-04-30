@@ -27,11 +27,26 @@ silver:
 - name : Bright Security
   url  : https://brightsec.com/
   image: Brightsec.png
+- name : AppSec Labs
+  url  : https://appsec-labs.com/
+  image: AppSecLabs.jpg
+- name : Oligo Security
+  url  : https://oligosecurity.io/
+  image: Oligo.svg
+- name : Sikreta Labs
+  url  : https://sikrets.com/
+  image: sikreta.png
 
 bronze: 
 - name : Secure Code Warrior
   url  : https://www.securecodewarrior.com/
   image: SecureCodeWarrior.png
+- name : Cilynx
+  url  : https://cilynx.com/
+  image: cilynx.png
+- name : Noname Security
+  url  : https://nonamesecurity.com/
+  image: Noname_Security.svg
 
 # alacarte:
 # - name : tbc
