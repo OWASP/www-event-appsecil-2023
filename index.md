@@ -66,9 +66,7 @@ Note: The auditorium and other classrooms are wheelchair accessible. Please noti
 
 More info on sponsoring the conference [is here](/Sponsors).
 
-<div id="sponsors" style="width:950px; height:1200px; overflow:hidden; overflow-x:hidden; ">
-   <iframe src="https://appsecil.org/Sponsors" scrolling="no" style="width:1000px; height:2200px; margin-top:-850px; overflow:hidden;"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+{% include sponsorlist.md %}
 
 ---
 ### Hosted by:  
