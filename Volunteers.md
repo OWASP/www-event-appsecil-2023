@@ -1,19 +1,21 @@
 ---
 ---
 
-## volunteers
+## Volunteers
 
 ---
 
 Wonderful people of the AppSec & DevSec Community,
 OWASP AppSec IL will take place this month on the 16-17.05 in EXPO TLV.
+
 We planned an amazing event and hoping to see you all there!
 
-If you haven't registered yet, you can do it here - https://www.eventbrite.com/e/appsec-israel-2023-tickets-594694937567
-More information about the conference and regitration can be found on the [Register](Registration) page!
+More information about the conference can be found on the [Agenda](Agenda) page!
 
 At the moment, we are looking for Volunteers to support different activities at the conference.
+
 Of course we are taking care of our Volunteers, and there are some benefits ;)
+
 To join the Volunteers team - you can reach us out directly at oz.avenstein@owasp.org !
 ---
 ### Hosted by:  
