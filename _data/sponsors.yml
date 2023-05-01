@@ -10,7 +10,9 @@ platinum:
 - name : Ox.security
   url  : https://www.ox.security/
   image: OxSecurity.png
-  
+- name : HCL AppScan
+  url  : https://www.hcltechsw.com/appscan
+  image: HCL.png
   
 # gold:
 # - name : tbc
@@ -34,7 +36,7 @@ silver:
   url  : https://oligosecurity.io/
   image: Oligo.svg
 - name : Sikreta Labs
-  url  : https://sikrets.com/
+  url  : https://sikreta.com/?ref=owaspil23
   image: sikreta.png
 
 bronze: 
@@ -47,6 +49,14 @@ bronze:
 - name : Noname Security
   url  : https://nonamesecurity.com/
   image: Noname_Security.svg
+
+community: 
+- name : WiCyS Israel Chapter 
+  url  : https://www.wicys.org/
+  image: WiCyS-Israel.jpg
+- name : Hackeriot
+  url  : https://www.hackeriot.org/
+  image: Hackeriot.png
 
 # alacarte:
 # - name : tbc
