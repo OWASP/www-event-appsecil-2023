@@ -6,6 +6,7 @@
 ---
 
 Wonderful people of the AppSec & DevSec Community,
+
 OWASP AppSec IL will take place this month on the 16-17.05 in EXPO TLV.
 
 We planned an amazing event and hoping to see you all there!
