@@ -20,3 +20,15 @@ Of course we are taking care of our volunteers, and there are some benefits ;)
 #### To join the Volunteers team - you can reach us out directly at oz.avenstein@owasp.org !
 
 
+
+
+
+
+
+
+
+
+
+
+
+
