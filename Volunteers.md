@@ -9,7 +9,7 @@ Wonderful people of the AppSec & DevSec Community,
 
 OWASP AppSecIL will take place on May 16th and 17th, 2023 in EXPO TLV.
 
-We planned an amazing event and hoping to see you all there!
+We have planned an amazing event and we are hoping to see you all there!
 
 More information about the conference can be found on the [Agenda](Agenda) page!
 
