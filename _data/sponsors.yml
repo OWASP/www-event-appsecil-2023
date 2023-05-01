@@ -54,12 +54,14 @@ community:
 - name : WiCyS Israel Chapter 
   url  : https://www.wicys.org/
   image: WiCyS-Israel.jpg
+  type: Diversity Evening
 - name : Hackeriot
   url  : https://www.hackeriot.org/
   image: Hackeriot.png
+  type: Diversity Evening
 
-# alacarte:
-# - name : tbc
-#   url  : owasp.org
-#   image: ../owasp_logo.jpg
-#   type : CTF
+alacarte:
+- name : Sikreta Labs
+  url  : https://sikreta.com/?ref=owaspil23
+  image: sikreta.png
+  type : CTF
