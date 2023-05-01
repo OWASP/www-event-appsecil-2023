@@ -37,7 +37,7 @@ silver:
   image: Oligo.svg
 - name : Sikreta Labs
   url  : https://sikreta.com/?ref=owaspil23
-  image: sikreta.png
+  image: Sikreta.png
 
 bronze: 
 - name : Secure Code Warrior
@@ -63,5 +63,5 @@ community:
 alacarte:
 - name : Sikreta Labs
   url  : https://sikreta.com/?ref=owaspil23
-  image: sikreta.png
+  image: Sikreta.png
   type : CTF
