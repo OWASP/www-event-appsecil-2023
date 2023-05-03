@@ -25,7 +25,7 @@ Good Luck  :)
 <div class="sponsor-tier">
 	Sponsored by:<br/>
   {% for sponsor in site.data.sponsors.alacarte %}
-	<span class="sponsor community-sponsor">
+	<span class="sponsor silver-sponsor">
 	  <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
 		{% if sponsor.image == %}
 		  <span>{{ sponsor.name }}</span>
@@ -38,4 +38,19 @@ Good Luck  :)
 </div>
 {% endif %}
 
-
+{% if site.data.sponsors.ctfBuilders %}
+<div class="sponsor-tier">
+	Built by:<br/>
+  {% for sponsor in site.data.sponsors.ctfBuilders %}
+	<span class="sponsor community-sponsor">
+	  <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
+		{% if sponsor.image == %}
+		  <span>{{ sponsor.name }}</span>
+		{% else %}
+		  <img src="assets/img/Sponsors/{{ sponsor.image }}" style="padding: 4px;">
+		{% endif %}
+	  </a>
+	</span>
+{% endfor %}
+</div>
+{% endif %}
