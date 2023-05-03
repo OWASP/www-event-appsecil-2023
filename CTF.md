@@ -22,7 +22,7 @@ Good Luck  :)
 {% if site.data.sponsors.ctf %}
 <div class="sponsor-tier">
 	Sponsored by:<br/>
-  {% for sponsor in site.data.sponsors.ctf %}
+  {% for sponsor in site.data.sponsors.alacarte %}
 	<span class="sponsor community-sponsor">
 	  <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
 		{% if sponsor.image == %}
