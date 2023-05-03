@@ -15,7 +15,9 @@ Make sure to sign up (with a valid email address) at the following link:
 --->
 
 
-The challenge will be opened on Saturday, October 24th at 7pm.
+The challenge is free to attend and will be opened on Saturday, May 17th at 10 am.
+
+Please note that registration is required and will be open soon! 
 
 Good Luck  :)
 
