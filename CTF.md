@@ -17,7 +17,7 @@ Make sure to sign up (with a valid email address) at the following link:
 
 The challenge is free to attend and will be opened on Wednesday, May 17th at 10 am.
 
-Please note that registration is required and will be open soon! 
+Please note that registration is required and will open soon! 
 
 Good Luck  :)
 
