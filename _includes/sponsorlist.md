@@ -84,7 +84,7 @@
 {% endif %}
 
 {% if site.data.sponsors.community %}
-####### Community Supporters
+###### Community Supporters
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.community %}
 	<span class="sponsor community-sponsor">
@@ -101,7 +101,7 @@
 {% endif %}
 
 {% if site.data.sponsors.alacarte %}
-####### A La Carte Sponsorships
+###### A La Carte Sponsorships
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.alacarte %}
 	<span class="sponsor alacarte-sponsor">
