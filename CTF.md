@@ -19,7 +19,7 @@ The challenge will be opened on Saturday, October 24th at 7pm.
 
 Good Luck  :)
 
-{% if site.data.sponsors.ctf %}
+{% if site.data.sponsors.alacarte %}
 <div class="sponsor-tier">
 	Sponsored by:<br/>
   {% for sponsor in site.data.sponsors.alacarte %}
@@ -35,3 +35,5 @@ Good Luck  :)
 {% endfor %}
 </div>
 {% endif %}
+
+
