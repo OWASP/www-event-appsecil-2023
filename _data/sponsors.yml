@@ -59,6 +59,14 @@ community:
   url  : https://www.hackeriot.org/
   image: Hackeriot.png
   type: Diversity Evening
+- name : Bishop Fox
+  url  : https://bishopfox.com/
+  image: BishopFox.png
+  type: community
+- name : Trend Micro
+  url  : https://www.trendmicro.com/
+  image: TrendMicro.png
+  type: community
 
 alacarte:
 - name : Sikreta Labs
