@@ -1,5 +1,5 @@
 {% if site.data.sponsors.diamond %}
-### Diamond Sponsor 
+## Diamond Sponsor 
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.diamond %}
 	<span class="sponsor diamond-sponsor">
@@ -16,7 +16,7 @@
 {% endif %}
 
 {% if site.data.sponsors.platinum %}
-### Platinum Sponsors
+## Platinum Sponsors
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.platinum %}
 	<span class="sponsor platinum-sponsor">
@@ -33,7 +33,7 @@
 {% endif %}
 
 {% if site.data.sponsors.gold %}
-#### Gold Sponsors 
+### Gold Sponsors 
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.gold %}
 	  <span class="sponsor gold-sponsor">
@@ -50,7 +50,7 @@
 {% endif %}
 
 {% if site.data.sponsors.silver %}
-##### Silver Sponsors
+### Silver Sponsors
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.silver %}
 	<span class="sponsor silver-sponsor">
@@ -67,7 +67,7 @@
 {% endif %}
 
 {% if site.data.sponsors.bronze %}
-###### Bronze Sponsors
+#### Bronze Sponsors
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.bronze %}
 	<span class="sponsor bronze-sponsor">
@@ -84,7 +84,7 @@
 {% endif %}
 
 {% if site.data.sponsors.community %}
-###### Community Supporters
+#### Community Supporters
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.community %}
 	<span class="sponsor community-sponsor">
@@ -101,7 +101,7 @@
 {% endif %}
 
 {% if site.data.sponsors.alacarte %}
-###### A La Carte Sponsorships
+#### A La Carte Sponsorships
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.alacarte %}
 	<span class="sponsor alacarte-sponsor">
