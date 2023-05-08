@@ -42,7 +42,7 @@ Good Luck  :)
 <div class="sponsor-tier">
 	Built by:<br/>
   {% for sponsor in site.data.sponsors.ctfBuilders %}
-	<span class="sponsor community-sponsor">
+	<span class="sponsor silver-sponsor">
 	  <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
 		{% if sponsor.image == %}
 		  <span>{{ sponsor.name }}</span>
