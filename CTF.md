@@ -23,7 +23,7 @@ Good Luck  :)
 
 {% if site.data.sponsors.alacarte %}
 <div class="sponsor-tier">
-	Sponsored by:<br/>
+	Sponsored and built by:<br/>
   {% for sponsor in site.data.sponsors.alacarte %}
 	<span class="sponsor silver-sponsor">
 	  <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
@@ -40,7 +40,7 @@ Good Luck  :)
 
 {% if site.data.sponsors.ctfBuilders %}
 <div class="sponsor-tier">
-	Built by:<br/>
+	Also built by:<br/>
   {% for sponsor in site.data.sponsors.ctfBuilders %}
 	<span class="sponsor silver-sponsor">
 	  <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
