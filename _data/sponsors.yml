@@ -75,10 +75,10 @@ alacarte:
   type : CTF 
   
 ctfBuilders:
-- name : Sikreta Labs
-  url  : https://sikreta.com/?ref=owaspil23
-  image: Sikreta.png
-  type : CTF 
+#- name : Sikreta Labs
+# url  : https://sikreta.com/?ref=owaspil23
+# image: Sikreta.png
+# type : CTF 
 - name : F5
   url  : https://www.f5.com/
   image: F5-logo.png
