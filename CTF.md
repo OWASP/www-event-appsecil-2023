@@ -25,15 +25,17 @@ Good Luck  :)
 <div class="sponsor-tier">
 	Sponsored and built by:<br/>
   {% for sponsor in site.data.sponsors.alacarte %}
-	<span class="sponsor silver-sponsor">
-	  <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-		{% if sponsor.image == %}
-		  <span>{{ sponsor.name }}</span>
-		{% else %}
-		  <img src="assets/img/Sponsors/{{ sponsor.image }}" style="padding: 4px;">
-		{% endif %}
-	  </a>
-	</span>
+	{% if sponsor.type == "CTF" %}
+		<span class="sponsor silver-sponsor">
+	 	 <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
+			{% if sponsor.image == %}
+			  <span>{{ sponsor.name }}</span>
+			{% else %}
+			  <img src="assets/img/Sponsors/{{ sponsor.image }}" style="padding: 4px;">
+			{% endif %}
+		  </a>
+		</span>
+	{% endif %}
 {% endfor %}
 </div>
 {% endif %}
