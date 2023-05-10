@@ -20,9 +20,9 @@ platinum:
 #   image: ../owasp_logo.jpg
 
 silver:
-- name : OxEye
-  url  : https://www.oxeye.io/
-  image: OxEye.svg
+- name : Codebashing
+  url  : https://checkmarx.com/
+  image: Codebashing.png
 - name : Contrast Security
   url  : https://www.contrastsecurity.com/
   image: Contrast.svg
@@ -77,6 +77,10 @@ alacarte:
   url  : https://www.microsoft.com/
   image: Microsoft.png
   type : Lanyards 
+- name : Playtika
+  url  : https://www.playtika.com/
+  image: logo-playtika.png
+  type : Dinner 
   
 ctfBuilders:
 #- name : Sikreta Labs
