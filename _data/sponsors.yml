@@ -72,7 +72,11 @@ alacarte:
 - name : Sikreta Labs
   url  : https://sikreta.com/?ref=owaspil23
   image: Sikreta.png
-  type : CTF 
+  type : CTF
+- name : Microsoft
+  url  : https://www.microsoft.com/
+  image: Microsoft.png
+  type : Lanyards 
   
 ctfBuilders:
 #- name : Sikreta Labs
