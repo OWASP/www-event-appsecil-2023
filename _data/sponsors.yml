@@ -49,6 +49,9 @@ bronze:
 - name : Noname Security
   url  : https://nonamesecurity.com/
   image: Noname_Security.svg
+- name : Seal Security
+  url  : https://www.sealsecurity.io/
+  image: SealSecurity.svg
 
 community: 
 - name : WiCyS Israel Chapter 
