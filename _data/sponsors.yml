@@ -63,23 +63,18 @@ community:
 - name : WiCyS Israel Chapter 
   url  : https://www.wicys.org/
   image: WiCyS-Israel.jpg
-  type: Diversity Evening
 - name : Hackeriot
   url  : https://www.hackeriot.org/
   image: Hackeriot.png
-  type: Diversity Evening
 - name : Bishop Fox
   url  : https://bishopfox.com/
   image: BishopFox.png
-  type: community
 - name : Trend Micro
   url  : https://www.trendmicro.com/
   image: TrendMicro.png
-  type: community
-- name : Threat Modeling Connect
-  url  : https://www.threatmodelingconnect.com/
-  image: TMC.png
-  type: Diversity Evening
+- name : Bounce Security
+  url  : https://bouncesecurity.com/
+  image: Bounce.png
 
 alacarte:
 - name : Sikreta Labs
@@ -94,7 +89,11 @@ alacarte:
   url  : https://www.playtika.com/
   image: logo-playtika.png
   type : Dinner 
-  
+- name : Threat Modeling Connect
+  url  : https://www.threatmodelingconnect.com/
+  image: TMC.png
+  type: Diversity Evening  
+
 ctfBuilders:
 #- name : Sikreta Labs
 # url  : https://sikreta.com/?ref=owaspil23
