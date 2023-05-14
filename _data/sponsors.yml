@@ -70,6 +70,10 @@ community:
   url  : https://www.trendmicro.com/
   image: TrendMicro.png
   type: community
+- name : Threat Modeling Connect
+  url  : https://www.threatmodelingconnect.com/
+  image: TMC.png
+  type: Diversity Evening
 
 alacarte:
 - name : Sikreta Labs
