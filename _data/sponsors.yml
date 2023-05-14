@@ -23,6 +23,9 @@ silver:
 - name : Checkmarx
   url  : https://checkmarx.com/
   image: Checkmarx.jpg
+- name : Codebashing
+  url  : https://www.codebashing.com/
+  image: Codebashing.png
 - name : Contrast Security
   url  : https://www.contrastsecurity.com/
   image: Contrast.svg
