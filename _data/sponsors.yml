@@ -92,7 +92,7 @@ alacarte:
 - name : Threat Modeling Connect
   url  : https://www.threatmodelingconnect.com/
   image: TMC.png
-  type: Diversity Evening  
+  type: Diversity  
 
 ctfBuilders:
 #- name : Sikreta Labs
