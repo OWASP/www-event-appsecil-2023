@@ -20,9 +20,9 @@ platinum:
 #   image: ../owasp_logo.jpg
 
 silver:
-- name : Codebashing
+- name : Checkmarx
   url  : https://checkmarx.com/
-  image: Codebashing.png
+  image: Checkmarx.jpg
 - name : Contrast Security
   url  : https://www.contrastsecurity.com/
   image: Contrast.svg
