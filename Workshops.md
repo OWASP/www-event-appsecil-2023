@@ -11,6 +11,8 @@ The workshops day is free to attend, however [registration is required](/Registe
 
 #### **IMPORTANT: Please see the workshop pre-requisites [on this page](https://docs.google.com/document/d/1B8cWvXOJpbXZhERl1eqezQIesZBcpM9MrwKWQrT_Ejs/edit?usp=sharing) and complete the form with your workshop requests [on this page](https://forms.gle/qj4CYfTGtEzs5Fde6).**
 
+We can’t guarantee places in workshops as entry will have to be "first come, first served" but filling out this form will help us try make sure there is enough space
+
 ### What are these workshops about? 
 
 This year we are lucky enough to have **three** parallel workshops tracks for attendees to learn from.
