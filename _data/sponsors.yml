@@ -14,10 +14,10 @@ platinum:
   url  : https://www.hcltechsw.com/appscan
   image: HCL.png
   
-# gold:
-# - name : tbc
-#   url  : owasp.org
-#   image: ../owasp_logo.jpg
+gold:
+- name : Snyk
+  url  : https://snyk.io/
+  image: Snyk.png
 
 silver:
 - name : Checkmarx
@@ -52,6 +52,9 @@ bronze:
 - name : Seal Security
   url  : https://www.sealsecurity.io/
   image: SealSecurity.svg
+- name : Piiano
+  url  : https://www.piiano.com/
+  image: Piiano.png
 
 community: 
 - name : WiCyS Israel Chapter 
