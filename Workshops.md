@@ -9,7 +9,7 @@ The aim is to provide a hands-on, crash course in key application security topic
 
 The workshops day is free to attend, however [registration is required](/Register). 
 
-**IMPORTANT: Please see the workshop pre-requisites [on this page] (https://docs.google.com/document/d/1B8cWvXOJpbXZhERl1eqezQIesZBcpM9MrwKWQrT_Ejs/edit?usp=sharing) and complete the form with your workshop requests [on this page](https://forms.gle/qj4CYfTGtEzs5Fde6).**
+#### **IMPORTANT: Please see the workshop pre-requisites [on this page](https://docs.google.com/document/d/1B8cWvXOJpbXZhERl1eqezQIesZBcpM9MrwKWQrT_Ejs/edit?usp=sharing) and complete the form with your workshop requests [on this page](https://forms.gle/qj4CYfTGtEzs5Fde6).**
 
 ### What are these workshops about? 
 
