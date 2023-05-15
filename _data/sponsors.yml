@@ -41,6 +41,9 @@ silver:
 - name : Sikreta Labs
   url  : https://sikreta.com/?ref=owaspil23
   image: Sikreta.png
+- name : Gong.io
+  url  : https://gong.io/
+  image: Gong_io.png
 
 bronze: 
 - name : Secure Code Warrior
@@ -58,6 +61,9 @@ bronze:
 - name : Piiano
   url  : https://www.piiano.com/
   image: Piiano.png
+- name : Imperva
+  url  : https://imperva.com
+  image: Imperva_Clr.png
 
 community: 
 - name : WiCyS Israel Chapter 
