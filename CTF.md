@@ -7,7 +7,7 @@ The conference is around the corner, it is time to sharpen your minds and prepar
 
 This year, The CTF team (professionals from various places), led by Maor Tal (Sikreta) and Tomer Zait (F5) have worked hard to create a new, interesting, unique challenges, in the fields of application security, cloud security, mobile security, code review, DevSecOps and more.
 
-The CTF Team Members: Maor Tal,Tomer Zait, Idan Bachar, Aviv Avraham Levy, Or Sahar, Osher Bello, and Artur Avetisian. 
+The CTF Team Members: Maor Tal, Tomer Zait, Idan Bachar, Aviv Avraham Levy, Or Sahar, Osher Bello, Ron Masas and Artur Avetisian. 
 
 Make sure to sign up (with a valid email address) at the following link:  
 
