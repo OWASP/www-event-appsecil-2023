@@ -10,7 +10,7 @@
 
 **{{ site.title }} took place on {{ site.dates }}!**
 
-Thanks to **[the organizations](#sponsors)** who supported this fantastic conference.
+Thanks to **[the organizations](#thanks-to-our-fabulous-sponsors)** who supported this fantastic conference.
 
 ### **Stay Tuned for details on our next conference!**
 
@@ -61,8 +61,6 @@ Note: The auditorium and other classrooms are wheelchair accessible. Please noti
 ---
 
 ### Thanks to our fabulous sponsors:  
-
-More info on sponsoring the conference [is here](/Sponsors).
 
 {% include sponsorlist.md %}
 
