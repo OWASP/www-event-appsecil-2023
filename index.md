@@ -8,13 +8,11 @@
 
 <!-- rebuild -->
 
-**{{ site.title }} will take place on {{ site.dates }}!**
+**{{ site.title }} took place on {{ site.dates }}!**
 
-Get more information on how you can [sponsor the conference](https://appsecil.org/assets/AppSecIL2023Sponsorships.pdf)!
+Thanks to **[the organizations](#sponsors)** who supported this fantastic conference.
 
-Thanks to **[the organizations](#sponsors)** who have already confirmed their sponsorship of the conference.
-
-### **Registration is [now open](/Register)!!!**
+### **Stay Tuned for details on our next conference!**
 
 <!--The agendas and **links for webinars** for the [training day](Training) and the [main track talks](Agenda) have now been published!-->
 
