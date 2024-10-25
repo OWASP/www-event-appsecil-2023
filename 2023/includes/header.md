@@ -1,6 +1,6 @@
 <header>
     <div class="top">
-        <a href="{{ '/' | relative_url }}" class="logo"></a>
+        <a href="{{ '/' | relative_url }}" class="logo" style="background-image: url(AppSecIL_logo.png)"></a>
     </div>
 	
     <nav>

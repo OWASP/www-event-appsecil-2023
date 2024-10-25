@@ -18,7 +18,7 @@ We are now offering several tiers of premium sponsorship, and various a la carte
 
 There is also a cost-effective “Community Supporter” option for non-profits, government offices, small startups, and anyone else that wishes to support the community (Community Supporter level does not get a booth at the conference).  
 
-Details on the available sponsorship options are in our **[Sponsorship Prospectus]({{ site.url }}/assets/AppSecIL2023Sponsorships.pdf)**.  
+Details on the available sponsorship options are in our **[Sponsorship Prospectus](AppSecIL2023Sponsorships.pdf)**.  
 
 For more details and to confirm your sponsorship, please contact [Ori Troyna](mailto:ori.troyna@owasp.org) or [Avi D](mailto:avi.douglen@owasp.org).   
 
