@@ -44,7 +44,7 @@ We also host sponsors to promote the latest advances in security technology rele
 
 {% comment %}
 
-{% include keynotes.md %}
+{% include_relative includes/keynotes.md %}
 
 **Attendance is free, but [registration is required](Register)!**
 
@@ -63,7 +63,7 @@ Note: The auditorium and other classrooms are wheelchair accessible. Please noti
 
 ### Thanks to our fabulous sponsors:  
 
-{% include sponsorlist.md %}
+{% include_relative includes/sponsorlist.md %}
 
 ---
 ### Hosted by:  

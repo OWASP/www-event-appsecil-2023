@@ -22,4 +22,4 @@ Details on the available sponsorship options are in our **[Sponsorship Prospectu
 
 For more details and to confirm your sponsorship, please contact [Ori Troyna](mailto:ori.troyna@owasp.org) or [Avi D](mailto:avi.douglen@owasp.org).   
 
-{% include sponsorlist.md %}
+{% include_relative includes/sponsorlist.md %}
