@@ -7,7 +7,7 @@
 		{% if sponsor.image == blank %}
 		  <p>{{ sponsor.name }}</p>
 		{% else %} 
-		  <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+		  <img src="/assets/img/Sponsors/{{ sponsor.image }}"> 
 		{% endif %}
 	  </a>
 	</span>
@@ -24,7 +24,7 @@
 		{% if sponsor.image == blank %}
 		  <p>{{ sponsor.name }}</p>
 		{% else %} 
-		  <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+		  <img src="/assets/img/Sponsors/{{ sponsor.image }}"> 
 		{% endif %}
 	  </a>
 	</span>
@@ -41,7 +41,7 @@
 		  {% if sponsor.image == %}
 			<span>{{ sponsor.name }}</span>
 		  {% else %} 
-			<img src="assets/img/Sponsors/{{ sponsor.image }}">
+			<img src="/assets/img/Sponsors/{{ sponsor.image }}">
 		  {% endif %}
 		</a>
 	  </span>
@@ -58,7 +58,7 @@
 		{% if sponsor.image == %}
 		  <span>{{ sponsor.name }}</span>
 		{% else %} 
-		  <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+		  <img src="/assets/img/Sponsors/{{ sponsor.image }}"> 
 		{% endif %}
 	  </a>
 	</span>
@@ -75,7 +75,7 @@
 		{% if sponsor.image == %}
 		  <span>{{ sponsor.name }}</span>
 		{% else %} 
-		  <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+		  <img src="/assets/img/Sponsors/{{ sponsor.image }}"> 
 		{% endif %}
 	  </a>
 	</span>
@@ -92,7 +92,7 @@
 		{% if sponsor.image == %}
 		  <span>{{ sponsor.name }}</span>
 		{% else %} 
-		  <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+		  <img src="/assets/img/Sponsors/{{ sponsor.image }}"> 
 		{% endif %}
 	  </a>
 	</span>
@@ -110,7 +110,7 @@
 		{% if sponsor.image == %}
 		  <span>{{ sponsor.name }}</span>
 		{% else %} 
-		  <img src="assets/img/Sponsors/{{ sponsor.image }}"> 
+		  <img src="/assets/img/Sponsors/{{ sponsor.image }}"> 
 		{% endif %}
 	  </a>
 	</span>
