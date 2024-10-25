@@ -1,4 +1,5 @@
 ---
+layout: layout-2023
 ---
 
 ## The people behind the conference
