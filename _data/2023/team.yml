@@ -1,57 +1,21 @@
-board: 
-- name: Or Katz
-  title: Akamai
-  role: Conference Chair and OWASPIL Chairman
-  image: 
-- name: Avi D
-  title: Bounce Security
-  role: Sponsor Relations
-  image: 
-- name: Ofer Maor
-  title: Synopsys
-  role: 
-  image: 
-- name: Hemed Gur Ary
-  title: Vata
-  role: volunteers
-  image: 
-- name: Dr. Yossi Oren
-  title: Ben Gurion University
-  role: 
-  image: 
-- name: Irene Abezgauz
-  title: Cymmetria
-  role: 
-  image: 
+# board: 
+# - name: Avi D
+#   title: Bounce Security
+#   role: Sponsor Relations
+#   image: 
 
-content:
-- name: Shira Shamban - Content Chair
-  title: Dome9, SheCodes
-- name: Irene Abezgauz
-  title: Cymmetria
-- name: Ory Segal
-  title: PureSec
-- name: Iftach Ian Amit
-  title: Cimpress / BSidesLV
-- name: Guy Mizrahi
-  title: RayZone
+# content:
+# - name: Shira Shamban - Content Chair
+#   title: Solvo
 
-training:
-- name: Yigal Elefantn
-  title: IronSource
-- name: Josh Grossman
-  title: Comsec
+# training:
+# - name: Josh Grossman
+#   title: Bounce Security
 
-volunteers:
-- name: Tomer Zait
-  title: F5 Networks
-  role: Website 
-- name: Shira Shamban 
-  title: Dome9, SheCodes
-  role: WIA organizer and moderator
-- name: Keren Elazari 
-  title: Tel Aviv University, BSidesTLV
-  role: WIA organizer and moderator
-- name: Reut Menashe
-  title: WIA organizer and moderator
-  role: BSidesTLV
+# volunteers:
+# - name: Tomer Zait
+#   title: F5 Networks
+#   role: Website 
+# - name: Shira Shamban 
+#   title: Dome9, SheCodes
+#   role: WIA organizer and moderator
