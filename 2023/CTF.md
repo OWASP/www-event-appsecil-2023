@@ -22,17 +22,17 @@ The challenge is free to attend and will be opened on Wednesday, May 17th at 10 
 
 Good Luck  :)
 
-{% if site.data.sponsors.alacarte %}
+{% if site.data.2023.sponsors.alacarte %}
 <div class="sponsor-tier">
 	Sponsored and built by:<br/>
-  {% for sponsor in site.data.sponsors.alacarte %}
+  {% for sponsor in site.data.2023.sponsors.alacarte %}
 	{% if sponsor.type == "CTF" %}
 		<span class="sponsor silver-sponsor">
 	 	 <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-			{% if sponsor.image == %}
+			{% if sponsor.image == blank %}
 			  <span>{{ sponsor.name }}</span>
 			{% else %}
-			  <img src="assets/img/Sponsors/{{ sponsor.image }}" style="padding: 4px;">
+			  <img src="/assets/img/Sponsors/{{ sponsor.image }}" style="padding: 4px;">
 			{% endif %}
 		  </a>
 		</span>
@@ -41,16 +41,16 @@ Good Luck  :)
 </div>
 {% endif %}
 
-{% if site.data.sponsors.ctfBuilders %}
+{% if site.data.2023.sponsors.ctfBuilders %}
 <div class="sponsor-tier">
 	Also built and managed by:<br/>
-  {% for sponsor in site.data.sponsors.ctfBuilders %}
+  {% for sponsor in site.data.2023.sponsors.ctfBuilders %}
 	<span class="sponsor silver-sponsor">
 	  <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
-		{% if sponsor.image == %}
+		{% if sponsor.image == blank %}
 		  <span>{{ sponsor.name }}</span>
 		{% else %}
-		  <img src="assets/img/Sponsors/{{ sponsor.image }}" style="padding: 4px;">
+		  <img src="/assets/img/Sponsors/{{ sponsor.image }}" style="padding: 4px;">
 		{% endif %}
 	  </a>
 	</span>
