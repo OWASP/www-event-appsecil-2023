@@ -4,9 +4,4 @@ description: OWASP AppSec Israel annual conference
 # Since GH pages override this to "true", we test this value to see if we are running locally
 safe: false
 
-# Conference dates
-#dates:  May 16th and 17th, 2023
-#trainingday: Tuesday, October 27th
-#confday: Wednesday, October 28th
-
-#sched: owaspappsecil2023.sched.com
+current_year: 2023
