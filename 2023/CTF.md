@@ -22,10 +22,10 @@ The challenge is free to attend and will be opened on Wednesday, May 17th at 10 
 
 Good Luck  :)
 
-{% if site.data.2023.sponsors.alacarte %}
+{% if site.data.year-2023.sponsors.alacarte %}
 <div class="sponsor-tier">
 	Sponsored and built by:<br/>
-  {% for sponsor in site.data.2023.sponsors.alacarte %}
+  {% for sponsor in site.data.year-2023.sponsors.alacarte %}
 	{% if sponsor.type == "CTF" %}
 		<span class="sponsor silver-sponsor">
 	 	 <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
@@ -41,10 +41,10 @@ Good Luck  :)
 </div>
 {% endif %}
 
-{% if site.data.2023.sponsors.ctfBuilders %}
+{% if site.data.year-2023.sponsors.ctfBuilders %}
 <div class="sponsor-tier">
 	Also built and managed by:<br/>
-  {% for sponsor in site.data.2023.sponsors.ctfBuilders %}
+  {% for sponsor in site.data.year-2023.sponsors.ctfBuilders %}
 	<span class="sponsor silver-sponsor">
 	  <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
 		{% if sponsor.image == blank %}

@@ -5,7 +5,7 @@
 	
     <nav>
         <ul class="nav navbar-nav">
-            {% for menu in site.data.2023.menus %}
+            {% for menu in site.data.year-2023.menus %}
             <li>
                 <a href="/2023/{{ menu.url }}">{{menu.title}}</a>
             </li>
