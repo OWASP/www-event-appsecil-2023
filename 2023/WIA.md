@@ -1,5 +1,4 @@
 ---
-layout: layout-2023
 ---
 
 ## Women In AppSec - Ladies-only Evening event! 

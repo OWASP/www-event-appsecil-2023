@@ -1,5 +1,4 @@
 ---
-layout: layout-2023
 ---
 
 ## Welcome to OWASP's {{ site.data.year-2023.config.title }}! 

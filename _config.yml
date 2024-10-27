@@ -5,3 +5,11 @@ description: OWASP AppSec Israel annual conference
 safe: false
 
 current_year: 2023
+
+defaults: 
+  - scope: 
+      path: "2023/*.md"
+      type: "pages"
+    values: 
+      layout: layout-2023
+      year: 2023

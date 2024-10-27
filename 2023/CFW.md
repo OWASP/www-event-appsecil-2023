@@ -1,5 +1,4 @@
 ---
-layout: layout-2023
 ---
 
 ## Call for Workshops
