@@ -2,14 +2,14 @@
 layout: layout-2023
 ---
 
-## Welcome to OWASP's {{ site.title }}! 
+## Welcome to OWASP's {{ site.data.year-2023.config.title }}! 
 
 
 ---
 
 <!-- rebuild -->
 
-**{{ site.title }} took place on {{ site.dates }}!**
+**{{ site.data.year-2023.config.title }} took place on {{ site.data.year-2023.config.dates }}!**
 
 Thanks to **[the organizations](#thanks-to-our-fabulous-sponsors)** who supported this fantastic conference.
 
@@ -37,7 +37,7 @@ If you are responsible for, or involved with:
 
   ... you should join us at AppSecIL!
 
-{{ site.title }} will have a lecture track from an amazing group of speakers, "unconference" style discussion sessions, and additional activities such as a Capture the Flag competition.   
+{{ site.data.year-2023.config.title }} will have a lecture track from an amazing group of speakers, "unconference" style discussion sessions, and additional activities such as a Capture the Flag competition.   
 
 We also host sponsors to promote the latest advances in security technology relevant to application security and developers.   
 

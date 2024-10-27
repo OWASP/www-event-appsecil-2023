@@ -4,10 +4,10 @@ layout: layout-2023
 
 ## Location and Time
 
-The annual OWASP {{ site.title }} conference will be held this year in Pavilion 10 of the [The Tel Aviv Expo](https://expotelaviv.co.il/en/), in central Tel Aviv, Israel. We are excited to have a bigger and better location to improve the experience for all participants!
+The annual OWASP {{ site.data.year-2023.config.title }} conference will be held this year in Pavilion 10 of the [The Tel Aviv Expo](https://expotelaviv.co.il/en/), in central Tel Aviv, Israel. We are excited to have a bigger and better location to improve the experience for all participants!
 
-<!--The [Training Day](Training) will take place on {{ site.trainingday }}. Registration will start at 9AM, and classes will continue until 17:30.   
-The [Conference](Agenda) will take place on {{ site.confday }}. Doors will open at 9AM, sessions will be going until 18:00.  -->
+<!--The [Training Day](Training) will take place on {{ site.data.year-2023.config.trainingday }}. Registration will start at 9AM, and classes will continue until 17:30.   
+The [Conference](Agenda) will take place on {{ site.data.year-2023.config.confday }}. Doors will open at 9AM, sessions will be going until 18:00.  -->
 
 There are parking lots in the complex, and it is also very easily reachable by car or public transportation. ([See here for more details](https://expotelaviv.co.il/en/visitors/#instructions__tabs).)
 
