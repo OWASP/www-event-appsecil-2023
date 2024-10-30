@@ -6,7 +6,7 @@
 The AppSec Israel Conference and Workshops can only take place thanks to the generous support of our sponsors!   
 
 
-### Interested in becoming a sponsor for {{ site.title }}? 
+### Interested in becoming a sponsor for {{ site.data.year-2023.config.title }}? 
 
 Whether you have a product to showcase, you're offering a service, or you are recruiting - sponsoring the OWASP AppSec Israel Conference gets you the right exposure.   
 This year we are expecting well over 1,000+ attendees! Our audience includes security professionals, developers, managers, and more.
@@ -17,8 +17,8 @@ We are now offering several tiers of premium sponsorship, and various a la carte
 
 There is also a cost-effective “Community Supporter” option for non-profits, government offices, small startups, and anyone else that wishes to support the community (Community Supporter level does not get a booth at the conference).  
 
-Details on the available sponsorship options are in our **[Sponsorship Prospectus]({{ site.url }}/assets/AppSecIL2023Sponsorships.pdf)**.  
+Details on the available sponsorship options are in our **[Sponsorship Prospectus](AppSecIL2023Sponsorships.pdf)**.  
 
 For more details and to confirm your sponsorship, please contact [Ori Troyna](mailto:ori.troyna@owasp.org) or [Avi D](mailto:avi.douglen@owasp.org).   
 
-{% include sponsorlist.md %}
+{% include_relative includes/sponsorlist.md %}

@@ -1,10 +1,10 @@
-{% if site.data.keynotes %} 
+{% if site.data.year-2023.keynotes %} 
 <br /> 
 
 ## Keynote Speakers
 
-  {% for keynote in site.data.keynotes %}
-<img src="assets/img/{{ keynote.image }}" style="width:320px"> 
+  {% for keynote in site.data.year-2023.keynotes %}
+<img src="/assets/img/{{ keynote.image }}" style="width:320px"> 
 ### {{ keynote.name }}
 #### <em style="font-style: italic;">{{ keynote.company }}</em>
 {% if keynote.url %}

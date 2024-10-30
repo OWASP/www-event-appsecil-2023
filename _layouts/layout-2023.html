@@ -4,9 +4,9 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ site.title }} : {{ site.description }}">
+    <meta name="description" content="{{ site.title }} {{ page.dir | slugify }}: {{ site.description }}">
 
-    <title>{{ site.title }}</title>
+    <title>{{ site.title }} {{ page.dir | slugify }}</title>
 
     <meta name="theme-color" content="#ffffff">
 
@@ -16,7 +16,7 @@
 </head>
 <body>
 
-{% include header.md %}
+{% include_relative includes/header.md %}
 
 <div class="main {{page.additionalclass}}">
     <section class="inverse">

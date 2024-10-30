@@ -30,4 +30,5 @@ whether as an appsec professional or as a developer of secure, resilient, and ro
 
 ### Schedule
 
-<a id="sched-embed" href="https://{{ site.sched }}/2023-05-16/overview" data-sched-sidebar="no">View the {{ site.title }} workshops Day schedule.</a><script type="text/javascript" src="https://{{ site.sched }}/js/embed.js"></script>
+<a id="sched-embed" href="https://{{ site.data.year-2023.config.sched }}/2023-05-16/overview" data-sched-sidebar="no">View the {{ site.data.year-2023.config.title }} workshops Day schedule.</a>
+<script type="text/javascript" src="https://{{ site.data.year-2023.config.sched }}/js/embed.js"></script>
