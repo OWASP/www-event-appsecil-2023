@@ -1,5 +1,7 @@
 title: AppSec Israel 
 description: OWASP AppSec Israel annual conference
+title: AppSec Israel 
+description: OWASP AppSec Israel annual conference
 
 # Since GH pages override this to "true", we test this value to see if we are running locally
 safe: false
